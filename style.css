@@ -1,0 +1,34 @@
+body
+{
+    background-color: #7f8d7e;
+}
+h1
+{   
+    text-align: center;
+    color: red;
+    
+}
+.homePage
+{
+    width: auto;
+    position: absolute;
+    left: 600px;
+    top: 100px;
+}
+.success
+{
+    position: absolute;
+    left: 550px;
+    top:200px;
+    padding: 15px;
+    margin: 15px;
+}
+.success a {
+    padding-top: 5px;
+    margin: 10px;
+    
+}
+.success a:hover {
+    color: red;
+    font-size: 40px;
+}
